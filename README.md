@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Kotlin/Java for Android**
 - 💬 Ask me about **C# & VB**
 
-- ⚡ **I love coffee and play guitar**
+- ⚡ **I love coffee and playing guitar**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

@@ -1,7 +1,7 @@
 <h1> Hi!👋🏽</h1>
 
 
-- 🔭 I’m currently working on **ST04 Controller**
+- 🔭 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **C# project**
 - 🌱 I’m currently learning **Kotlin/Java for Android**
 - 💬 Ask me about **C# & VB**

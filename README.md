@@ -6,7 +6,7 @@
 ### <div align="center">I'm Gonçalo, a full-stack developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [MOBPRO ERP](https://github.com/sanroque)  
+- 🔭 I’m currently working on [MOBPRO DIGITAL RESOURCES](https://github.com/sanroque)  
   
 
 - 🌱 I’m currently learning Java and Spring Boot  
